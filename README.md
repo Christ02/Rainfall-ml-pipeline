@@ -51,7 +51,3 @@ rainfall-ml-pipeline/
 ├── AustralianWeather.ipynb   # Main notebook with full pipeline
 └── README.md                 
 ```
-
-## License
-
-MIT © 2025 Christian Alejandro Barrios Rodriguez
